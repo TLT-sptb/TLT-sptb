@@ -1,9 +1,9 @@
 
 ### Hi there 👋
 
-💻 - Formado em Análise e Desenvolvimento de Sistemas 📚
-💻 - Entusiasta do Ecosistema JavaScript 💛
-💻 - Desenvolvedor e amante de VueJS 💚
+💻 - Formado em Análise e Desenvolvimento de Sistemas 📚  <br />
+💻 - Entusiasta do Ecosistema JavaScript 💛  <br />
+💻 - Desenvolvedor e amante de VueJS 💚  <br />
 
 
 <!-- <img src="https://raw.githubusercontent.com/felipemarcos/felipemarcos/master/card.svg" /> -->
