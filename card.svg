@@ -1,0 +1,122 @@
+<svg id="edCE8X9LMOR1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 768.61 247.35" shape-rendering="geometricPrecision"
+    text-rendering="geometricPrecision">
+    <style><![CDATA[
+#edCE8X9LMOR4_to {animation: edCE8X9LMOR4_to__to 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR4_to__to { 0% {transform: translate(406.109985px,142.5px)} 53.333333% {transform: translate(406.109985px,142.5px);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 73.333333% {transform: translate(406.109985px,109.5px)} 100% {transform: translate(406.109985px,109.5px)}} #edCE8X9LMOR4 {animation: edCE8X9LMOR4_c_o 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR4_c_o { 0% {opacity: 0} 53.333333% {opacity: 0;animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 73.333333% {opacity: 1} 100% {opacity: 1}} #edCE8X9LMOR5 {animation: edCE8X9LMOR5_c_o 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR5_c_o { 0% {opacity: 0} 66.666667% {opacity: 0;animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 80% {opacity: 1} 100% {opacity: 1}} #edCE8X9LMOR18 {animation: edCE8X9LMOR18_c_o 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR18_c_o { 0% {opacity: 0} 66.666667% {opacity: 0;animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 80% {opacity: 1} 100% {opacity: 1}} #edCE8X9LMOR37_ts {animation: edCE8X9LMOR37_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR37_ts__ts { 0% {transform: translate(31.61px,68px) scale(0,0)} 53.333333% {transform: translate(31.61px,68px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: translate(31.61px,68px) scale(1,1)} 100% {transform: translate(31.61px,68px) scale(1,1)}} #edCE8X9LMOR38_tr {animation: edCE8X9LMOR38_tr__tr 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR38_tr__tr { 0% {transform: translate(166.994022px,203.62727px) rotate(-115deg)} 53.333333% {transform: translate(166.994022px,203.62727px) rotate(-115deg);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: translate(166.994022px,203.62727px) rotate(-70deg)} 100% {transform: translate(166.994022px,203.62727px) rotate(-70deg)}} #edCE8X9LMOR38_ts {animation: edCE8X9LMOR38_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR38_ts__ts { 0% {transform: scale(0,0)} 53.333333% {transform: scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: scale(1,1)} 100% {transform: scale(1,1)}} #edCE8X9LMOR39_ts {animation: edCE8X9LMOR39_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR39_ts__ts { 0% {transform: translate(492.582254px,199.744985px) rotate(-14.999995deg) scale(0,0)} 53.333333% {transform: translate(492.582254px,199.744985px) rotate(-14.999995deg) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 66.666667% {transform: translate(492.582254px,199.744985px) rotate(-14.999995deg) scale(1,1)} 100% {transform: translate(492.582254px,199.744985px) rotate(-14.999995deg) scale(1,1)}} #edCE8X9LMOR40_ts {animation: edCE8X9LMOR40_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR40_ts__ts { 0% {transform: translate(517.012878px,6.718094px) rotate(-63.000038deg) scale(0,0)} 63.333333% {transform: translate(517.012878px,6.718094px) rotate(-63.000038deg) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 73.333333% {transform: translate(517.012878px,6.718094px) rotate(-63.000038deg) scale(1,1)} 100% {transform: translate(517.012878px,6.718094px) rotate(-63.000038deg) scale(1,1)}} #edCE8X9LMOR41_tr {animation: edCE8X9LMOR41_tr__tr 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR41_tr__tr { 0% {transform: translate(56.123839px,108.722915px) rotate(-108deg)} 53.333333% {transform: translate(56.123839px,108.722915px) rotate(-108deg);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 76.666667% {transform: translate(56.123839px,108.722915px) rotate(-63.000038deg)} 100% {transform: translate(56.123839px,108.722915px) rotate(-63.000038deg)}} #edCE8X9LMOR41_ts {animation: edCE8X9LMOR41_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR41_ts__ts { 0% {transform: scale(0,0)} 53.333333% {transform: scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 76.666667% {transform: scale(1,1)} 100% {transform: scale(1,1)}} #edCE8X9LMOR42_ts {animation: edCE8X9LMOR42_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR42_ts__ts { 0% {transform: translate(620.61px,38px) scale(0,0)} 66.666667% {transform: translate(620.61px,38px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 80% {transform: translate(620.61px,38px) scale(1,1)} 100% {transform: translate(620.61px,38px) scale(1,1)}} #edCE8X9LMOR43_ts {animation: edCE8X9LMOR43_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR43_ts__ts { 0% {transform: translate(656.61px,73px) scale(0,0)} 56.666667% {transform: translate(656.61px,73px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 73.333333% {transform: translate(656.61px,73px) scale(1,1)} 100% {transform: translate(656.61px,73px) scale(1,1)}} #edCE8X9LMOR44_ts {animation: edCE8X9LMOR44_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR44_ts__ts { 0% {transform: translate(746.61px,53px) scale(0,0)} 60% {transform: translate(746.61px,53px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: translate(746.61px,53px) scale(1,1)} 100% {transform: translate(746.61px,53px) scale(1,1)}} #edCE8X9LMOR45_ts {animation: edCE8X9LMOR45_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR45_ts__ts { 0% {transform: translate(76.61px,164px) scale(0,0)} 56.666667% {transform: translate(76.61px,164px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 76.666667% {transform: translate(76.61px,164px) scale(1,1)} 100% {transform: translate(76.61px,164px) scale(1,1)}} #edCE8X9LMOR46_ts {animation: edCE8X9LMOR46_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR46_ts__ts { 0% {transform: translate(175.61px,38px) scale(0,0)} 63.333333% {transform: translate(175.61px,38px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 76.666667% {transform: translate(175.61px,38px) scale(1,1)} 100% {transform: translate(175.61px,38px) scale(1,1)}} #edCE8X9LMOR47_ts {animation: edCE8X9LMOR47_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR47_ts__ts { 0% {transform: translate(243.61px,38px) scale(0,0)} 56.666667% {transform: translate(243.61px,38px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 73.333333% {transform: translate(243.61px,38px) scale(1,1)} 100% {transform: translate(243.61px,38px) scale(1,1)}} #edCE8X9LMOR48_ts {animation: edCE8X9LMOR48_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR48_ts__ts { 0% {transform: translate(738.61px,149px) scale(0,0)} 60% {transform: translate(738.61px,149px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 73.333333% {transform: translate(738.61px,149px) scale(1,1)} 100% {transform: translate(738.61px,149px) scale(1,1)}} #edCE8X9LMOR49_tr {animation: edCE8X9LMOR49_tr__tr 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR49_tr__tr { 0% {transform: translate(217.200405px,139.375px) rotate(-45deg)} 53.333333% {transform: translate(217.200405px,139.375px) rotate(-45deg);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 80% {transform: translate(217.200405px,139.375px) rotate(0deg)} 100% {transform: translate(217.200405px,139.375px) rotate(0deg)}} #edCE8X9LMOR49_ts {animation: edCE8X9LMOR49_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR49_ts__ts { 0% {transform: scale(0,0)} 56.666667% {transform: scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 76.666667% {transform: scale(1,1)} 100% {transform: scale(1,1)}} #edCE8X9LMOR50_tr {animation: edCE8X9LMOR50_tr__tr 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR50_tr__tr { 0% {transform: translate(11.755px,196.325px) rotate(-45deg)} 53.333333% {transform: translate(11.755px,196.325px) rotate(-45deg);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 76.666667% {transform: translate(11.755px,196.325px) rotate(0deg)} 100% {transform: translate(11.755px,196.325px) rotate(0deg)}} #edCE8X9LMOR50_ts {animation: edCE8X9LMOR50_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR50_ts__ts { 0% {transform: scale(0,0)} 53.333333% {transform: scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: scale(1,1)} 100% {transform: scale(1,1)}} #edCE8X9LMOR51_ts {animation: edCE8X9LMOR51_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR51_ts__ts { 0% {transform: translate(593.325px,188.8px) scale(0,0)} 60% {transform: translate(593.325px,188.8px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 80% {transform: translate(593.325px,188.8px) scale(1,1)} 100% {transform: translate(593.325px,188.8px) scale(1,1)}} #edCE8X9LMOR52_ts {animation: edCE8X9LMOR52_ts__ts 3000ms linear 1 normal forwards}@keyframes edCE8X9LMOR52_ts__ts { 0% {transform: translate(313.245px,188.605px) scale(0,0)} 56.666667% {transform: translate(313.245px,188.605px) scale(0,0);animation-timing-function: cubic-bezier(0.19,1,0.22,1)} 70% {transform: translate(313.245px,188.605px) scale(1,1)} 100% {transform: translate(313.245px,188.605px) scale(1,1)}}
+]]></style>
+    <g>
+        <g>
+            <g id="edCE8X9LMOR4_to" transform="translate(406.109985,142.5)">
+                <rect id="edCE8X9LMOR4" width="199" height="45" rx="0" ry="0"
+                    transform="translate(-99.499985,-22.5)" opacity="0" fill="#252a34" />
+            </g>
+            <g id="edCE8X9LMOR5" opacity="0">
+                      <text x="41%" y="50%" d="M314.7"  font-family="Arial" font-size="28" fill="#f2f2f2">Weslley Vieira</text>
+
+            </g>
+        </g>
+        <g id="edCE8X9LMOR18" opacity="0">
+            <path d="M342.54,137.2h5.82v2h-3.62v3.9h2.84v2h-2.84v6.1h-2.2v-14Z" fill="#ddd" />
+            <path
+                d="M349.41,137.2h3.26c1.13,0,1.96.27,2.48.8.52.52.78,1.33.78,2.42v.86c0,1.45-.48,2.37-1.44,2.76v.04c.53.16.91.49,1.12.98.23.49.34,1.15.34,1.98v2.46c0,.4.01.73.04.98.03.24.09.48.2.72h-2.24c-.08-.23-.13-.44-.16-.64s-.04-.56-.04-1.08v-2.56c0-.64-.11-1.09-.32-1.34-.2-.25-.55-.38-1.06-.38h-.76v6h-2.2v-14Zm3,6c.44,0,.77-.11.98-.34.23-.23.34-.61.34-1.14v-1.08c0-.51-.09-.87-.28-1.1-.17-.23-.45-.34-.84-.34h-1v4h.8Z"
+                fill="#ddd" />
+            <path
+                d="M360.66,151.4c-1.08,0-1.91-.31-2.48-.92s-.86-1.48-.86-2.6v-7.36c0-1.12.29-1.99.86-2.6s1.4-.92,2.48-.92s1.91.31,2.48.92.86,1.48.86,2.6v7.36c0,1.12-.29,1.99-.86,2.6s-1.4.92-2.48.92Zm0-2c.76,0,1.14-.46,1.14-1.38v-7.64c0-.92-.38-1.38-1.14-1.38s-1.14.46-1.14,1.38v7.64c0,.92.38,1.38,1.14,1.38Z"
+                fill="#ddd" />
+            <path
+                d="M365.49,137.2h2.76l2.14,8.38h.04v-8.38h1.96v14h-2.26l-2.64-10.22h-.04v10.22h-1.96v-14Z"
+                fill="#ddd" />
+            <path d="M375.74,139.2h-2.3v-2h6.8v2h-2.3v12h-2.2v-12Z" fill="#ddd" />
+            <path d="M379.52,143.2h4.4v2h-4.4v-2Z" fill="#ddd" />
+            <path d="M385.24,137.2h6v2h-3.8v3.7h3.02v2h-3.02v4.3h3.8v2h-6v-14Z" fill="#ddd" />
+            <path
+                d="M392.5,137.2h2.76l2.14,8.38h.04v-8.38h1.96v14h-2.26l-2.64-10.22h-.04v10.22h-1.96v-14Z"
+                fill="#ddd" />
+            <path
+                d="M401.04,137.2h3.36c1.09,0,1.91.29,2.46.88s.82,1.45.82,2.58v7.08c0,1.13-.27,1.99-.82,2.58s-1.37.88-2.46.88h-3.36v-14Zm3.32,12c.36,0,.63-.11.82-.32.2-.21.3-.56.3-1.04v-7.28c0-.48-.1-.83-.3-1.04-.19-.21-.46-.32-.82-.32h-1.12v10h1.12Z"
+                fill="#ddd" />
+            <path d="M412.36,137.2h6v2h-3.8v3.7h3.02v2h-3.02v4.3h3.8v2h-6v-14Z" fill="#ddd" />
+            <path
+                d="M419.63,137.2h2.76l2.14,8.38h.04v-8.38h1.96v14h-2.26l-2.64-10.22h-.04v10.22h-1.96v-14Z"
+                fill="#ddd" />
+            <path
+                d="M431.28,151.4c-1.07,0-1.88-.3-2.44-.9-.56-.61-.84-1.49-.84-2.62v-7.36c0-1.13.28-2,.84-2.6.56-.61,1.37-.92,2.44-.92s1.88.31,2.44.92c.56.6.84,1.47.84,2.6v1.2h-2.08v-1.34c0-.92-.38-1.38-1.14-1.38s-1.14.46-1.14,1.38v7.66c0,.91.38,1.36,1.14,1.36s1.14-.45,1.14-1.36v-2.74h-1.1v-2h3.18v4.58c0,1.13-.28,2.01-.84,2.62-.56.6-1.37.9-2.44.9Z"
+                fill="#ddd" />
+            <path d="M435.98,137.2h2.2v14h-2.2v-14Z" fill="#ddd" />
+            <path
+                d="M439.82,137.2h2.76l2.14,8.38h.04v-8.38h1.96v14h-2.26l-2.64-10.22h-.04v10.22h-1.96v-14Z"
+                fill="#ddd" />
+            <path d="M448.36,137.2h6v2h-3.8v3.7h3.02v2h-3.02v4.3h3.8v2h-6v-14Z" fill="#ddd" />
+            <path d="M455.63,137.2h6v2h-3.8v3.7h3.02v2h-3.02v4.3h3.8v2h-6v-14Z" fill="#ddd" />
+            <path
+                d="M462.89,137.2h3.26c1.13,0,1.96.27,2.48.8.52.52.78,1.33.78,2.42v.86c0,1.45-.48,2.37-1.44,2.76v.04c.53.16.91.49,1.12.98.23.49.34,1.15.34,1.98v2.46c0,.4.01.73.04.98.03.24.09.48.2.72h-2.24c-.08-.23-.13-.44-.16-.64s-.04-.56-.04-1.08v-2.56c0-.64-.11-1.09-.32-1.34-.2-.25-.55-.38-1.06-.38h-.76v6h-2.2v-14Zm3,6c.44,0,.77-.11.98-.34.23-.23.34-.61.34-1.14v-1.08c0-.51-.09-.87-.28-1.1-.17-.23-.45-.34-.84-.34h-1v4h.8Z"
+                fill="#ddd" />
+        </g>
+    </g>
+    <g>
+        <g id="edCE8X9LMOR37_ts" transform="translate(31.61,68) scale(0,0)">
+            <circle r="30" transform="translate(0,0)" fill="#ff2e63" />
+        </g>
+        <g id="edCE8X9LMOR38_tr" transform="translate(166.994022,203.62727) rotate(-115)">
+            <g id="edCE8X9LMOR38_ts" transform="scale(0,0)">
+                <rect width="60" height="60" rx="0" ry="0" transform="translate(-30,-30)"
+                    fill="#fcac14" />
+            </g>
+        </g>
+        <g id="edCE8X9LMOR39_ts"
+            transform="translate(492.582254,199.744985) rotate(-14.999995) scale(0,0)">
+            <rect width="30" height="30" rx="0" ry="0" transform="translate(-15,-15)" fill="#fcac14" />
+        </g>
+        <g id="edCE8X9LMOR40_ts"
+            transform="translate(517.012878,6.718094) rotate(-63.000038) scale(0,0)">
+            <rect width="10" height="10" rx="0" ry="0" transform="translate(-5,-5)" fill="#08d9d6" />
+        </g>
+        <g id="edCE8X9LMOR41_tr" transform="translate(56.123839,108.722915) rotate(-108)">
+            <g id="edCE8X9LMOR41_ts" transform="scale(0,0)">
+                <rect width="10" height="10" rx="0" ry="0" transform="translate(-5,-5)"
+                    fill="#08d9d6" />
+            </g>
+        </g>
+        <g id="edCE8X9LMOR42_ts" transform="translate(620.61,38) scale(0,0)">
+            <circle r="30" transform="translate(0,0)" fill="#ff2e63" />
+        </g>
+        <g id="edCE8X9LMOR43_ts" transform="translate(656.61,73) scale(0,0)">
+            <circle r="5" transform="translate(0,0)" fill="#08d9d6" />
+        </g>
+        <g id="edCE8X9LMOR44_ts" transform="translate(746.61,53) scale(0,0)">
+            <circle r="15" transform="translate(0,0)" fill="#ff2e63" />
+        </g>
+        <g id="edCE8X9LMOR45_ts" transform="translate(76.61,164) scale(0,0)">
+            <circle r="15" transform="translate(0,0)" fill="#ff2e63" />
+        </g>
+        <g id="edCE8X9LMOR46_ts" transform="translate(175.61,38) scale(0,0)">
+            <circle r="15" transform="translate(0,0)" fill="#08d9d6" />
+        </g>
+        <g id="edCE8X9LMOR47_ts" transform="translate(243.61,38) scale(0,0)">
+            <circle r="30" transform="translate(0,0)" fill="#fcac14" />
+        </g>
+        <g id="edCE8X9LMOR48_ts" transform="translate(738.61,149) scale(0,0)">
+            <circle r="30" transform="translate(0,0)" fill="#fcac14" />
+        </g>
+        <g id="edCE8X9LMOR49_tr" transform="translate(217.200405,139.375) rotate(-45)">
+            <g id="edCE8X9LMOR49_ts" transform="scale(0,0)">
+                <path d="M225.99,126.43l2.18,25.89-23.51-11.06l21.33-14.83Z"
+                    transform="translate(-216.415,-139.375)" fill="#08d9d6" />
+            </g>
+        </g>
+        <g id="edCE8X9LMOR50_tr" transform="translate(11.755,196.325) rotate(-45)">
+            <g id="edCE8X9LMOR50_ts" transform="scale(0,0)">
+                <path d="M2.18,183.38l21.33,14.83L0,209.27l2.18-25.89Z"
+                    transform="translate(-11.755,-196.325)" fill="#fcac14" />
+            </g>
+        </g>
+        <g id="edCE8X9LMOR51_ts" transform="translate(593.325,188.8) scale(0,0)">
+            <path d="M620.64,154.21l3.53,69.19-61.69-31.54l58.16-37.66Z"
+                transform="translate(-593.325,-188.8)" fill="#08d9d6" />
+        </g>
+        <g id="edCE8X9LMOR52_ts" transform="translate(313.245,188.605) scale(0,0)">
+            <path d="M333.73,162.66l2.65,51.89-46.27-23.65l43.62-28.24Z"
+                transform="translate(-313.245,-188.605)" fill="#ff2e63" />
+        </g>
+    </g>
+</svg>
