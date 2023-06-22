@@ -6,7 +6,7 @@
 💻 - Desenvolvedor e amante de VueJS 💚  <br />
 
 
-<img src="https://raw.githubusercontent.com/felipemarcos/felipemarcos/master/card.svg" />
+<img src="" />
 
 
 <div style="display: inline_block" align="center">
