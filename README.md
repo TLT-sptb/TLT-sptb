@@ -6,7 +6,7 @@
 💻 - Desenvolvedor e amante de VueJS 💚  <br />
 
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/TLT-sptb/TLT-sptb/main/card.svg" />
 
 
 <div style="display: inline_block" align="center">
