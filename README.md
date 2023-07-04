@@ -16,4 +16,3 @@
 <code><img height="40" alt="vuejs" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/VUE%20JS.svg"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/NODE%20JS.svg"></code>    
 </div>
-*/
