@@ -7,7 +7,7 @@
 
 ##
 
-<img src="[https://raw.githubusercontent.com/TLT-sptb/TLT-sptb/main/card.svg](https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/front.svg)" />
+<img src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/front.svg" />
 
 ##
 <div style="display: inline_block" align="center">
