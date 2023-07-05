@@ -16,9 +16,10 @@
 <code><img height="40" alt="vuejs" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/VUE%20JS.svg"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/NODE%20JS.svg"></code>    
 </div>
-<div align="left">
+<br><br><br>
+<div align="right">
 <p align="rigth">
-  Visitantes: 
-  <img align="center"src="https://profile-counter.glitch.me/WeslleyJs/count.svg"/>
+  Visitas: 
+  <img style="padding: 7px; border-radius:8px" align="center"src="https://profile-counter.glitch.me/WeslleyJs/count.svg"/>
 </p>
 </div>
