@@ -13,7 +13,7 @@
 <div style="display: inline_block" align="center">
 <code><img height="40" alt="javascript" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/JAVASCRIPT.svg"></code>
 <code><img height="40" alt="typescript" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/TYPESCRIPT.svg"></code>
-  <code><img height="40" alt="react" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/REACT."></code>
+  <code><img height="40" alt="react" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/REACT.svg"></code>
 <code><img height="40" alt="vuejs" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/VUE%20JS.svg"></code>
 <code><img height="40" alt="nodejs" src="https://raw.githubusercontent.com/WeslleyJs/WeslleyJs/main/NODE%20JS.svg"></code>   
 </div>
